@@ -1,0 +1,6 @@
+{
+  "name": "CodeFlux",
+  "description": "Interactive Computer Science Laboratory & Algorithm Learning Platform. Experiment with sorting algorithms, side-by-side races, step predictions, and empirical runtime analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
